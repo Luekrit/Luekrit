@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com)
+- <b>Azure Cloud Security Simulation Project</b>
+  - [Brute Force Attack on Virtual Machine](https://github.com)
 
 
 <h2>📺 Popular YouTube Videos</h2>
