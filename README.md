@@ -6,8 +6,11 @@
   - [Azure Security Operations & Threat Detection](https://github.com)
 
 <h2> Certification </h2>
-- CompTIA Security +
-- CompTIA Network + 
+
+- <b>CompTIA Security +</b>
+
+- <b>CompTIA Network +</b>
+
 
 <h2>📺 My YouTube Videos</h2>
 
