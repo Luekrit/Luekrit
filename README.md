@@ -2,13 +2,13 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Azure Cloud Security Simulation Project</b>
-  - [Brute Force Attack on Virtual Machine](https://github.com)
+- <b>Azure Cloud Security Project</b>
+  - [Azure Security Operations & Threat Detection](https://github.com)
 
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [In Progress](https://www.youtube.com)
+- [Azure Security Operations & Threat Detection (in progress) ](https://www.youtube.com)
 
 
 <h2> 🤳 Connect with me:</h2>
