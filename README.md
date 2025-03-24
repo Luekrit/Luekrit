@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Azure Cloud Security Project</b>
-  - [Azure Security Operations & Threat Detection](https://github.com)
+  - [Azure Security Operations & Threat Detection](https://github.com/Luekrit/Azure-Security-Operations-Threat-Detection/tree/main)
 
 <h2> Certification </h2>
 
