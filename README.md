@@ -5,8 +5,11 @@
 - <b>Azure Cloud Security Project</b>
   - [Azure Security Operations & Threat Detection](https://github.com)
 
+<h2> Certification </h2>
+- CompTIA Security +
+- CompTIA Network + 
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 My YouTube Videos</h2>
 
 - [Azure Security Operations & Threat Detection (in progress) ](https://www.youtube.com)
 
