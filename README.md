@@ -4,7 +4,7 @@
 
 - <b>Azure Cloud Security Project</b>
   - [Azure Security Operations & Threat Detection](https://github.com/Luekrit/Azure-Security-Operations-Threat-Detection/tree/main)
-
+  - [Threat Hunting at an Australian University's incidents] 
 <h2> Certification </h2>
 
 - <b>CompTIA Security +</b>
