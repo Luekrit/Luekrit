@@ -1,5 +1,11 @@
 <h1>Hi, I'm Luekrit Kongkamon ! 
 
+<h2> AWS Cloud Projects:</h2>
+
+I would like to thank "Nextwork" for these hands-on labs.
+
+ - [7-day AWS DevOps Challenge](https://github.com/Luekrit/web-project-nextwork-)
+
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 - <b>Azure Cloud Security Project</b>
