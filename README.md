@@ -17,12 +17,6 @@ I would like to thank "Nextwork" for these hands-on labs.
 
 - <b>CompTIA Network +</b>
 
-
-<h2>📺 My YouTube Videos</h2>
-
-- [Azure Security Operations & Threat Detection (in progress) ](https://www.youtube.com)
-
-
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
