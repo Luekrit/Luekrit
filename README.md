@@ -1,8 +1,11 @@
 <h1>Hi, I'm Luekrit Kongkamon ! 
 
-<h2> AWS Cloud Projects:</h2>
+<h2> My Current Project: </h2>
 
  - [Enterprise IAM Governance Lab with AI Powered Identity Analytics Automation](https://github.com/Luekrit/Enterprise-IAM-Governance-Lab-with-AI-Powered-Identity-Analytics-Automation)
+ - 
+
+<h2> AWS Cloud Projects:</h2>
 
 I would like to thank "Nextwork" for these hands-on labs.
 
@@ -26,8 +29,6 @@ I would like to thank "Nextwork" for these hands-on labs.
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-[youtube]: https://www.youtube.com/
-[instagram]: https://www.instagram.com/
 [linkedin]: https://www.linkedin.com/in/luekrit-kongkamon/
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
