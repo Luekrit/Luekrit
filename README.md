@@ -4,7 +4,7 @@
 
  - [Enterprise IAM Governance Lab with AI Powered Identity Analytics Automation](https://github.com/Luekrit/Enterprise-IAM-Governance-Lab-with-AI-Powered-Identity-Analytics-Automation)
 
-<h2> AWS Cloud Projects:</h2>
+<h2> My Cloud Projects:</h2>
 
 I want to thank "Nextwork" for these hands-on labs.
 
