@@ -6,9 +6,10 @@
 
 <h2> AWS Cloud Projects:</h2>
 
-I would like to thank "Nextwork" for these hands-on labs.
+I want to thank "Nextwork" for these hands-on labs.
 
  - [Java Web App Deployment with AWS CI/CD | 7-day AWS DevOps Challenge](https://github.com/Luekrit/web-project-nextwork-)
+ - [Terraform + AWS S3 + EC2 + IAM 🌩️](https://github.com/Luekrit/web-project-nextwork-)
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
