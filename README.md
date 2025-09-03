@@ -9,7 +9,7 @@
 I want to thank "Nextwork" for these hands-on labs.
 
  - [Java Web App Deployment with AWS CI/CD | 7-day AWS DevOps Challenge](https://github.com/Luekrit/web-project-nextwork-)
- - [Terraform + AWS S3 + EC2 + IAM 🌩️](https://github.com/Luekrit/web-project-nextwork-)
+ - [Terraform + AWS S3 + EC2 + IAM 🌩️](https://github.com/Luekrit/Terraform-Secured-S3-EC2-IAM)
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
