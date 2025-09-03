@@ -13,7 +13,7 @@ I want to thank "Nextwork" for these hands-on labs.
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>Azure Cloud Security Project</b>
+- <b> Cloud Security Project</b>
   - [Azure Security Operations & Threat Detection](https://github.com/Luekrit/Azure-Security-Operations-Threat-Detection/tree/main)
   - [Threat Hunting at an Australian University's Incidents with MITRE ATT&CK](https://github.com/Luekrit/Threat-Hunting-at-Australian-University-s-Incidents) 
 <h2> Certification </h2>
