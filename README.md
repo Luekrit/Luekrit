@@ -3,7 +3,6 @@
 <h2> My Current Project: </h2>
 
  - [Enterprise IAM Governance Lab with AI Powered Identity Analytics Automation](https://github.com/Luekrit/Enterprise-IAM-Governance-Lab-with-AI-Powered-Identity-Analytics-Automation)
- - [AI-Powered Ticket Triage Workflow]()
 
 <h2> My Cloud Projects:</h2>
 
