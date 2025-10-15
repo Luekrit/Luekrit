@@ -16,7 +16,7 @@ I want to thank "Nextwork" for these hands-on labs.
 - <b> Cloud Security Project</b>
   - [Azure Security Operations & Threat Detection](https://github.com/Luekrit/Azure-Security-Operations-Threat-Detection/tree/main)
   - [Threat Hunting at an Australian University's Incidents with MITRE ATT&CK](https://github.com/Luekrit/Threat-Hunting-at-Australian-University-s-Incidents)
-  - [SolarWinds Cyber Risk Management Program (SolarWinds Case Study)](https://github.com/Luekrit/SolarWinds-Cyber-Risk-Management-Program-SolarWinds-Case-Study-)
+  - [🧩 SolarWinds Cyber Risk Management Program (SolarWinds Case Study)](https://github.com/Luekrit/SolarWinds-Cyber-Risk-Management-Program-SolarWinds-Case-Study-)
 <h2> Certification </h2>
 
 - <b>CompTIA Security +</b>
