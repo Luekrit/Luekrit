@@ -6,7 +6,7 @@ Welcome to my hands-on portfolio showcasing cloud, DevOps, and cybersecurity pro
 
 ## 🚀 My Current Project
 
-[![Enterprise IAM Governance Lab](images/iam_governance_lab_banner.png)]([https://github.com/yourusername/Enterprise-IAM-Governance-Lab](https://github.com/Luekrit/Enterprise-IAM-Governance-Lab-with-AI-Powered-Identity-Analytics-Automation))  
+[![Enterprise IAM Governance Lab](https://github.com/Luekrit/images-/blob/main/AI-Powered%20Identity%20Analytics.png)](https://github.com/Luekrit/Enterprise-IAM-Governance-Lab-with-AI-Powered-Identity-Analytics-Automation)  
 **Enterprise IAM Governance Lab with AI-Powered Identity Analytics Automation**  
 _Automating Joiner–Mover–Leaver lifecycle in AWS IAM with Python, Boto3, and anomaly detection._
 
@@ -20,14 +20,14 @@ _Automating Joiner–Mover–Leaver lifecycle in AWS IAM with Python, Boto3, and
   <tr>
     <td align="center">
       <a href="https://github.com/Luekrit/web-project-nextwork-">
-        <img src="images/aws_devops_challenge.png" width="320"/>
+        <img src="https://github.com/Luekrit/images-/blob/main/Java%20Web%20App%20Deployment%20with%20AWS%20CICD.png" width="320"/>
         <br><b>Java Web App Deployment with AWS CI/CD</b>
       </a>
       <br>7-Day AWS DevOps Challenge – EC2, S3, CodePipeline, CodeDeploy, CodeArtifact
     </td>
     <td align="center">
       <a href="https://github.com/Luekrit/Terraform-Secured-S3-EC2-IAM">
-        <img src="images/terraform_project.png" width="320"/>
+        <img src="https://github.com/Luekrit/images-/blob/main/Terraform%20%2B%20AWS%20S3%20%2B%20EC2%20%2B%20IAM.png" width="320"/>
         <br><b>Terraform + AWS S3 + EC2 + IAM</b>
       </a>
       <br>Infrastructure-as-Code, lifecycle management, and encryption automation.
@@ -43,14 +43,14 @@ _Automating Joiner–Mover–Leaver lifecycle in AWS IAM with Python, Boto3, and
   <tr>
     <td align="center">
       <a href="https://github.com/Luekrit/Azure-Security-Operations-Threat-Detection">
-        <img src="images/azure_security_threat_detection.png" width="320"/>
+        <img src="https://github.com/Luekrit/images-/blob/main/Azure%20Security%20Operations%20%26%20Threat%20Detection.png" width="320"/>
         <br><b>Azure Security Operations & Threat Detection</b>
       </a>
       <br>Microsoft Sentinel, Defender for Cloud, and incident investigation.
     </td>
     <td align="center">
       <a href="https://github.com/Luekrit/Threat-Hunting-at-Australian-University-s-Incidents">
-        <img src="images/mitre_threat_hunting.png" width="320"/>
+        <img src="https://github.com/Luekrit/images-/blob/main/Threat%20Hunting%20at%20an%20Australian%20University.png" width="320"/>
         <br><b>Threat Hunting at an Australian University</b>
       </a>
       <br>MITRE ATT&CK mapping, threat vectors, and impact analysis.
@@ -59,7 +59,7 @@ _Automating Joiner–Mover–Leaver lifecycle in AWS IAM with Python, Boto3, and
   <tr>
     <td align="center" colspan="2">
       <a href="https://github.com/Luekrit/SolarWinds-Cyber-Risk-Management-Program-SolarWinds-Case-Study-">
-        <img src="images/solarwinds_case_study.png" width="650"/>
+        <img src="https://github.com/Luekrit/images-/blob/main/SolarWinds%20Cyber%20Risk%20Management%20Program.png" width="650"/>
         <br><b>SolarWinds Cyber Risk Management Program</b>
       </a>
       <br>Applied ISO 27001 and NIST frameworks for risk evaluation and control prioritization.
