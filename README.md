@@ -1,6 +1,16 @@
-<h1>Hi, I'm Luekrit Kongkamon ! 
+# 👨‍💻 Luekrit Kongkamon – Cloud & Cybersecurity Projects
 
-<h2> My Current Project: </h2>
+Welcome to my hands-on portfolio showcasing cloud, DevOps, and cybersecurity projects built using AWS, Azure, and open-source tools.
+
+---
+
+## 🚀 My Current Project
+
+[![Enterprise IAM Governance Lab](images/iam_governance_lab_banner.png)]([https://github.com/yourusername/Enterprise-IAM-Governance-Lab](https://github.com/Luekrit/Enterprise-IAM-Governance-Lab-with-AI-Powered-Identity-Analytics-Automation))  
+**Enterprise IAM Governance Lab with AI-Powered Identity Analytics Automation**  
+_Automating Joiner–Mover–Leaver lifecycle in AWS IAM with Python, Boto3, and anomaly detection._
+
+---
 
  - [Enterprise IAM Governance Lab with AI Powered Identity Analytics Automation](https://github.com/Luekrit/Enterprise-IAM-Governance-Lab-with-AI-Powered-Identity-Analytics-Automation)
 
