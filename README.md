@@ -12,7 +12,7 @@ _Automating Joiner–Mover–Leaver lifecycle in AWS IAM with Python, Boto3, and
 
 ---
 
- - [Enterprise IAM Governance Lab with AI Powered Identity Analytics Automation](https://github.com/Luekrit/Enterprise-IAM-Governance-Lab-with-AI-Powered-Identity-Analytics-Automation)
+
 
 <h2> My Cloud Projects:</h2>
 
