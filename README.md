@@ -12,43 +12,77 @@ _Automating Joiner–Mover–Leaver lifecycle in AWS IAM with Python, Boto3, and
 
 ---
 
+## ☁️ My Cloud Projects
 
+> Special thanks to **NextWork** for the hands-on AWS labs.
 
-<h2> My Cloud Projects:</h2>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Luekrit/web-project-nextwork-">
+        <img src="images/aws_devops_challenge.png" width="320"/>
+        <br><b>Java Web App Deployment with AWS CI/CD</b>
+      </a>
+      <br>7-Day AWS DevOps Challenge – EC2, S3, CodePipeline, CodeDeploy, CodeArtifact
+    </td>
+    <td align="center">
+      <a href="https://github.com/Luekrit/Terraform-Secured-S3-EC2-IAM">
+        <img src="images/terraform_project.png" width="320"/>
+        <br><b>Terraform + AWS S3 + EC2 + IAM</b>
+      </a>
+      <br>Infrastructure-as-Code, lifecycle management, and encryption automation.
+    </td>
+  </tr>
+</table>
 
-I want to thank "Nextwork" for these hands-on labs.
+---
 
- - [Java Web App Deployment with AWS CI/CD | 7-day AWS DevOps Challenge](https://github.com/Luekrit/web-project-nextwork-)
- - [Terraform + AWS S3 + EC2 + IAM 🌩️](https://github.com/Luekrit/Terraform-Secured-S3-EC2-IAM)
+## 🛡️ Cyber Security Projects
 
-<h2>👨‍💻 Cyber Security Projects:</h2>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Luekrit/Azure-Security-Operations-Threat-Detection">
+        <img src="images/azure_security_threat_detection.png" width="320"/>
+        <br><b>Azure Security Operations & Threat Detection</b>
+      </a>
+      <br>Microsoft Sentinel, Defender for Cloud, and incident investigation.
+    </td>
+    <td align="center">
+      <a href="https://github.com/Luekrit/Threat-Hunting-at-Australian-University-s-Incidents">
+        <img src="images/mitre_threat_hunting.png" width="320"/>
+        <br><b>Threat Hunting at an Australian University</b>
+      </a>
+      <br>MITRE ATT&CK mapping, threat vectors, and impact analysis.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://github.com/Luekrit/SolarWinds-Cyber-Risk-Management-Program-SolarWinds-Case-Study-">
+        <img src="images/solarwinds_case_study.png" width="650"/>
+        <br><b>SolarWinds Cyber Risk Management Program</b>
+      </a>
+      <br>Applied ISO 27001 and NIST frameworks for risk evaluation and control prioritization.
+    </td>
+  </tr>
+</table>
 
-- <b> Cloud Security Project</b>
-  - [Azure Security Operations & Threat Detection](https://github.com/Luekrit/Azure-Security-Operations-Threat-Detection/tree/main)
-  - [Threat Hunting at an Australian University's Incidents with MITRE ATT&CK](https://github.com/Luekrit/Threat-Hunting-at-Australian-University-s-Incidents)
-  - [🧩 SolarWinds Cyber Risk Management Program (SolarWinds Case Study)](https://github.com/Luekrit/SolarWinds-Cyber-Risk-Management-Program-SolarWinds-Case-Study-)
-<h2> Certification </h2>
+---
 
-- <b>CompTIA Security +</b>
+## 🎓 Certifications
 
-- <b>CompTIA Network +</b>
+- 🛡️ **CompTIA Security+**
+- 🌐 **CompTIA Network+**
 
-<h2> 🤳 Connect with me:</h2>
+---
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 🤝 Connect with Me
 
-[linkedin]: https://www.linkedin.com/in/luekrit-kongkamon/
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💼 [LinkedIn](https://www.linkedin.com/in/luekrit-kongkamon/)
+- 📂 [GitHub](https://github.com/Luekrit/)
+- ✉️ Email: luekrit.k@email.com
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> _“Continuous learning through real-world projects is the key to mastery.”_
+
