@@ -12,6 +12,14 @@ _Automating Joiner–Mover–Leaver lifecycle in AWS IAM with Python, Boto3, and
 
 ---
 
+[![SOC Analyst Technical Assessment](https://github.com/Luekrit/images-/blob/main/SOC%20Analyst%20Technical%20Assessment.png)](https://github.com/Luekrit/SOC-Analyst-Technical-Assessment)  
+**SOC Analyst Technical Assessment (Learning Template)**  
+_Simulated SOC exercise documenting SIEM alert triage, log correlation, and incident response using MITRE ATT&CK framework._
+
+
+
+---
+
 ## ☁️ My Cloud Projects
 
 > Special thanks to **NextWork** for the hands-on AWS labs.
