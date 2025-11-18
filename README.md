@@ -44,7 +44,7 @@ _Automating Joiner–Mover–Leaver lifecycle in AWS IAM with Python, Boto3, and
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Luekrit/Azure-Security-Operations-Threat-Detection">
-        <img src="https://github.com/Luekrit/images-/blob/main/Threat%20Hunting%20at%20an%20Australian%20University.png"
+        <img src="https://github.com/Luekrit/images-/blob/main/Azure%20Security%20Operations%20%26%20Threat%20Detection.png"
              width="350" height="210"/>
         <br><b>Azure Security Operations & Threat Detection</b>
       </a>
@@ -64,7 +64,7 @@ _Automating Joiner–Mover–Leaver lifecycle in AWS IAM with Python, Boto3, and
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Luekrit/SolarWinds-Cyber-Risk-Management-Program-SolarWinds-Case-Study-">
-        <img src="https://github.com/Luekrit/images-/blob/main/Threat%20Hunting%20at%20an%20Australian%20University_1.png"
+        <img src="https://github.com/Luekrit/images-/blob/main/SolarWinds%20Cyber%20Risk%20Management%20Program.png"
              width="350" height="210"/>
         <br><b>SolarWinds Cyber Risk Management Program</b>
       </a>
