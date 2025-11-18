@@ -12,14 +12,6 @@ _Automating Joiner–Mover–Leaver lifecycle in AWS IAM with Python, Boto3, and
 
 ---
 
-[![🛡️ SOC Analyst Technical Assessment Template](https://github.com/Luekrit/images-/blob/main/SOC%20Analyst%20Technical%20Assessment.png)](https://github.com/Luekrit/SOC-Analyst-Technical-Assessment)  
-**🛡️ SOC Analyst Technical Assessment Template**  
-_Simulated SOC exercise documenting SIEM alert triage, log correlation, and incident response using MITRE ATT&CK framework._
-
-
-
----
-
 ## ☁️ My Cloud Projects
 
 > Special thanks to **NextWork** for the hands-on AWS labs.
@@ -48,34 +40,50 @@ _Simulated SOC exercise documenting SIEM alert triage, log correlation, and inci
 ## 🛡️ Cyber Security Projects
 
 <table>
+  <!-- Row 1 -->
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://github.com/Luekrit/Azure-Security-Operations-Threat-Detection">
-        <img src="https://github.com/Luekrit/images-/blob/main/Azure%20Security%20Operations%20%26%20Threat%20Detection.png" width="320"/>
+        <img src="https://github.com/Luekrit/images-/blob/main/Azure%20Security%20Operations%20%26%20Threat%20Detection.png"
+             width="350" height="210"/>
         <br><b>Azure Security Operations & Threat Detection</b>
       </a>
       <br>Microsoft Sentinel, Defender for Cloud, and incident investigation.
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://github.com/Luekrit/Threat-Hunting-at-Australian-University-s-Incidents">
-        <img src="https://github.com/Luekrit/images-/blob/main/Threat%20Hunting%20at%20an%20Australian%20University.png" width="320"/>
+        <img src="https://github.com/Luekrit/images-/blob/main/Threat%20Hunting%20at%20an%20Australian%20University_1.png"
+             width="350" height="210"/>
         <br><b>Threat Hunting at an Australian University</b>
       </a>
       <br>MITRE ATT&CK mapping, threat vectors, and impact analysis.
     </td>
   </tr>
+
+  <!-- Row 2 -->
   <tr>
-    <td align="center" colspan="2">
+    <td align="center" width="50%">
       <a href="https://github.com/Luekrit/SolarWinds-Cyber-Risk-Management-Program-SolarWinds-Case-Study-">
-        <img src="https://github.com/Luekrit/images-/blob/main/SolarWinds%20Cyber%20Risk%20Management%20Program.png" width="650"/>
+        <img src="https://github.com/Luekrit/images-/blob/main/SolarWinds%20Cyber%20Risk%20Management%20Program.png"
+             width="350" height="210"/>
         <br><b>SolarWinds Cyber Risk Management Program</b>
       </a>
       <br>Applied ISO 27001 and NIST frameworks for risk evaluation and control prioritization.
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/Luekrit/SOC-Assessment-Template">
+        <img src="https://github.com/Luekrit/images-/blob/main/SOC%20assessment%20template_1.png"
+             width="350" height="210"/>
+        <br><b>SOC Analyst Technical Assessment Template</b>
+      </a>
+      <br>Complete end-to-end SOC investigation framework covering SIEM analysis, log correlation,
+      MITRE ATT&CK mapping, IR workflow, evidence handling, and executive reporting.
     </td>
   </tr>
 </table>
 
 ---
+
 
 ## 🎓 Certifications
 
