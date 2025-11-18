@@ -44,7 +44,7 @@ _Automating Joiner–Mover–Leaver lifecycle in AWS IAM with Python, Boto3, and
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/Luekrit/Azure-Security-Operations-Threat-Detection">
-        <img src="https://github.com/Luekrit/images-/blob/main/Azure%20Security%20Operations%20%26%20Threat%20Detection.png"
+        <img src="https://github.com/Luekrit/images-/blob/main/Threat%20Hunting%20at%20an%20Australian%20University.png"
              width="350" height="210"/>
         <br><b>Azure Security Operations & Threat Detection</b>
       </a>
