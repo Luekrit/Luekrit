@@ -71,7 +71,7 @@ _Automating Joiner–Mover–Leaver lifecycle in AWS IAM with Python, Boto3, and
       <br>Applied ISO 27001 and NIST frameworks for risk evaluation and control prioritization.
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/Luekrit/SOC-Assessment-Template">
+      <a href="https://github.com/Luekrit/SOC-Analyst-Technical-Assessment">
         <img src="https://github.com/Luekrit/images-/blob/main/SOC%20assessment%20template_1.png"
              width="350" height="210"/>
         <br><b>SOC Analyst Technical Assessment Template</b>
