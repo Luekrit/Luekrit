@@ -17,6 +17,7 @@ _Automating Joiner–Mover–Leaver lifecycle in AWS IAM with Python, Boto3, and
 > Special thanks to **NextWork** for the hands-on AWS labs.
 
 <table>
+  <!-- Row 1 -->
   <tr>
     <td align="center">
       <a href="https://github.com/Luekrit/web-project-nextwork-">
@@ -31,6 +32,23 @@ _Automating Joiner–Mover–Leaver lifecycle in AWS IAM with Python, Boto3, and
         <br><b>Terraform + AWS S3 + EC2 + IAM</b>
       </a>
       <br>Infrastructure-as-Code, lifecycle management, and encryption automation.
+    </td>
+  </tr>
+  <!-- Row 2 -->
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Luekrit/Automated-Cloud-Security-Monitoring-Remediation-AWS-/tree/main">
+        <img src="https://github.com/Luekrit/images-/blob/main/Automated%20Cloud%20Security%20Monitoring%20%26%20Remediation%20(AWS).png" width="320"/>
+        <br><b>Automated Cloud Security Monitoring & Remediation (AWS)</b>
+      </a>
+      <br>S3 Security, Python, boto3, AI Automation, AWS MCP
+    </td>
+    <td align="center">
+      <a href="https://github.com/Luekrit/Enterprise-IAM-Governance-Lab-with-AI-Powered-Identity-Analytics-Automation">
+        <img src="https://github.com/Luekrit/images-/blob/main/AI-Powered%20Identity%20Analytics.png" width="320"/>
+        <br><b>Enterprise IAM Governance Lab with AI-Powered Identity Analytics Automation</b>
+      </a>
+      <br>Automating Joiner–Mover–Leaver lifecycle in AWS IAM with Python, Boto3, and anomaly detection.
     </td>
   </tr>
 </table>
