@@ -1,4 +1,4 @@
-# 👨‍💻 Luekrit Kongkamon – Cloud & Cybersecurity Projects
+# 👨‍💻 Luekrit Kongkamon – AI Cloud & Cybersecurity  Projects
 
 Welcome to my hands-on portfolio showcasing cloud, DevOps, and cybersecurity projects built using AWS, Azure, and open-source tools.
 
