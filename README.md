@@ -6,7 +6,7 @@ Welcome to my hands-on portfolio showcasing cloud, DevOps, and cybersecurity pro
 
 ## 🚀 My Current Project
 
-[![Self Healing Cloud Security Automation](https://github.com/Luekrit/images-/blob/main/AI-Powered%20Identity%20Analytics.png)](https://github.com/Luekrit/Cloud-Security-Automation)  
+[![Self Healing Cloud Security Automation](https://github.com/Luekrit/images-/blob/main/Self-Healing%20Cloud%20Security%20Automation.png)](https://github.com/Luekrit/Cloud-Security-Automation)  
 **Self Healing Cloud Security Automation**  
 _Automating Joiner–Mover–Leaver lifecycle in AWS IAM with Python, Boto3, and anomaly detection._
 
