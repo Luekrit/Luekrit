@@ -6,7 +6,7 @@ Welcome to my hands-on portfolio showcasing cloud, DevOps, and cybersecurity pro
 
 ## 🚀 My Current Project
 
-[![Self Healing Cloud Security Automation](https://github.com/Luekrit/images-/blob/main/Self-Healing%20Cloud%20Security%20Automation.png)](https://github.com/Luekrit/Cloud-Security-Automation)  
+[![Self Healing Cloud Security Automation](https://github.com/Luekrit/images-/blob/main/Cloud%20Security%20Automation%20and%20Remediation.png)](https://github.com/Luekrit/Cloud-Security-Automation)  
 **Self Healing Cloud Security Automation**  
 _Automated AWS cloud security monitoring and remediation built with Terraform, Lambda, and Python._
 
