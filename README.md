@@ -46,9 +46,9 @@ _Automated AWS cloud security monitoring and remediation built with Terraform, L
     <td align="center">
       <a href="https://github.com/Luekrit/Enterprise-IAM-Governance-Lab-with-AI-Powered-Identity-Analytics-Automation">
         <img src="https://github.com/Luekrit/images-/blob/main/AI-Powered%20Identity%20Analytics.png" width="320"/>
-        <br><b>Enterprise IAM Governance Lab with AI-Powered Identity Analytics Automation</b>
+        <br><b>Enterprise IAM Governance Lab</b>
       </a>
-      <br>Automating Joiner–Mover–Leaver lifecycle in AWS IAM with Python, Boto3, and anomaly detection.
+      <br>Automating Joiner–Mover–Leaver lifecycle in AWS IAM with Python, and Boto3.
     </td>
   </tr>
 </table>
