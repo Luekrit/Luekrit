@@ -19,7 +19,7 @@ Event-driven IAM security pipeline that detects unauthorised privilege escalatio
 - Detects `AttachUserPolicy` abuse in near real-time via CloudTrail and EventBridge
 - DynamoDB exception registry with TTL — approved exceptions auto-expire, no manual cleanup
 - Human-in-the-loop dry-run mode before live enforcement eliminates accidental lockout risk
-- Lambda IAM role scoped to `iam-test-*` only — no over-permissioned execution role
+- Lambda IAM role scoped to `iam-test-user` only — no over-permissioned execution role
 - Handles the IAM/us-east-1 global service logging problem with a dedicated Terraform provider alias
 - CloudTrail log file validation, SNS encryption, S3 SSE-KMS — hardened end to end
 - Modular Terraform, S3 remote state, DynamoDB locking, AssumeRole — no long-term credentials
