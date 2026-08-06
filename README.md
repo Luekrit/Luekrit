@@ -2,7 +2,7 @@
 
 **Cloud Security Engineer  |  IAM & Identity Specialist  |  Melbourne, Australia**
 
-I build AWS security automation and identity governance controls backed by real test evidence. Delivered a zero-incident Entra ID migration for a critical infrastructure organisation, more than 40 applications, 500+ users, and cut the phishing-prone rate from 13% to 4.8% in under three months. Currently sitting AWS SAA-C03 (Jun 2026) and SC-300 (Jul 2026).
+I build AWS security automation and identity governance controls backed by real test evidence. Delivered a zero-incident Entra ID migration for a critical infrastructure organisation, more than 40 applications, 500+ users, and cut the phishing-prone rate from 13% to 4.8% in under three months.
 
 ---
 
