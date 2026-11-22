@@ -124,7 +124,7 @@ Frameworks  NIST CSF 2.0, ISO 27001, ASD Essential Eight, APRA CPS 234
 |---|---|
 | CompTIA Security+ | Achieved 2024 |
 | CompTIA Network+ | Achieved 2024 |
-| AWS Solutions Architect – Associate | Exam scheduled Jun 2026 |
+| Google Cloud Engineer Associate | Achieved September 2026 |
 | Microsoft SC-300: Identity & Access Administrator | Exam scheduled Jul 2026 |
 | AWS Security Specialty | Planned Q4 2026 |
 
