@@ -1,6 +1,6 @@
 # Luekrit Kongkamon
 
-**Cloud Security Engineer  |  IAM & Identity Specialist  |  Melbourne, Australia**
+**Cyber Security Analyst  |  Cloud Security & IAM  |  Melbourne, Australia**
 
 I build AWS security automation and identity governance controls backed by real test evidence. Delivered a zero-incident Entra ID migration for a critical infrastructure organisation, more than 40 applications, 500+ users, and cut the phishing-prone rate from 13% to 4.8% in under three months.
 
@@ -18,11 +18,11 @@ Event-driven IAM security pipeline that detects unauthorised privilege escalatio
 
 - Detects `AttachUserPolicy` abuse in near real-time via CloudTrail and EventBridge
 - DynamoDB exception registry with TTL — approved exceptions auto-expire, no manual cleanup
-- Human-in-the-loop dry-run mode before live enforcement eliminates accidental lockout risk
+- Human-in-the-loop dry-run mode before live enforcement to reduce accidental lockout risk
 - Lambda IAM role scoped to `iam-test-user` only — no over-permissioned execution role
 - Handles the IAM/us-east-1 global service logging problem with a dedicated Terraform provider alias
 - CloudTrail log file validation, SNS encryption, S3 SSE-KMS — hardened end to end
-- Modular Terraform, S3 remote state, DynamoDB locking, AssumeRole — no long-term credentials
+- Modular Terraform, S3 remote state with native state locking, AssumeRole — no long-term credentials
 
 ---
 
@@ -38,11 +38,10 @@ Event-driven IAM security pipeline that detects unauthorised privilege escalatio
       <br>S3 security controls, Python, Boto3, AWS automation
     </td>
     <td align="center">
-      <a href="https://github.com/Luekrit/Enterprise-IAM-Governance-Lab-with-AI-Powered-Identity-Analytics-Automation">
-        <img src="https://github.com/Luekrit/images-/blob/main/AI-Powered%20Identity%20Analytics.png" width="320"/>
-        <br><b>Enterprise IAM Governance Lab</b>
+      <a href="https://github.com/Luekrit/AWS-IAM-lifecycle-automation">
+        <b>AWS IAM Lifecycle Automation</b>
       </a>
-      <br>Joiner-Mover-Leaver automation in Python/Boto3. CloudTrail log parser with CloudWatch alerting for high-value IAM role changes.
+      <br>Joiner-Mover-Leaver automation in Python/Boto3 with a role catalog, permissions boundary and dry-run by default. Quarantine-then-purge offboarding, SCP guardrails and IAM Access Analyzer. Tested with pytest against mocked AWS (moto) in CI.
     </td>
   </tr>
   <tr>
@@ -74,7 +73,7 @@ Event-driven IAM security pipeline that detects unauthorised privilege escalatio
         <img src="https://github.com/Luekrit/images-/blob/main/Azure%20Security%20Operations%20%26%20Threat%20Detection.png" width="350" height="210"/>
         <br><b>Azure Security Operations & Threat Detection</b>
       </a>
-      <br>Deployed honeypot Azure VMs to capture real attacker traffic. Built KQL detection rules correlating Event ID 4625 with GeoIP data, generating Sentinel incidents with attacker context pre-attached.
+      <br>Deployed honeypot Azure VMs to capture real attacker traffic. Collected Windows Event Logs into Microsoft Sentinel and used KQL to investigate Event ID 4625 failed logons, enriched with GeoIP data and visualised on an attack map.
     </td>
     <td align="center" width="50%">
       <a href="https://github.com/Luekrit/Threat-Hunting-at-Australian-University-s-Incidents">
@@ -107,10 +106,12 @@ Event-driven IAM security pipeline that detects unauthorised privilege escalatio
 ## Stack
 
 ```
-Cloud       AWS (CloudTrail, EventBridge, Lambda, SNS, DynamoDB, IAM, S3, Security Hub)
+Cloud       AWS (CloudTrail, EventBridge, Lambda, SNS, DynamoDB, IAM, Organizations, S3, Security Hub)
             Azure (Sentinel, Defender for Cloud, Entra ID)
+            Google Cloud (IAM, Compute Engine, VPC)
 IaC         Terraform (modular), CloudFormation
 Languages   Python, Boto3, KQL, PowerShell, Bash, YAML
+Testing/CI  pytest, moto, GitHub Actions
 Identity    Entra ID, Okta, SAML, OIDC, OAuth, MFA, Conditional Access, RBAC
 Security    MITRE ATT&CK, Cisco XDR, Rapid7 InsightVM, KnowBe4
 Frameworks  NIST CSF 2.0, ISO 27001, ASD Essential Eight, APRA CPS 234
@@ -122,11 +123,9 @@ Frameworks  NIST CSF 2.0, ISO 27001, ASD Essential Eight, APRA CPS 234
 
 | Credential | Status |
 |---|---|
+| Google Cloud Associate Cloud Engineer | Achieved September 2026 |
 | CompTIA Security+ | Achieved 2024 |
 | CompTIA Network+ | Achieved 2024 |
-| Google Cloud Engineer Associate | Achieved September 2026 |
-| Microsoft SC-300: Identity & Access Administrator | Exam scheduled Jul 2026 |
-| AWS Security Specialty | Planned Q4 2026 |
 
 ---
 
