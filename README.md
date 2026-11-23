@@ -30,31 +30,32 @@ Event-driven IAM security pipeline that detects unauthorised privilege escalatio
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://github.com/Luekrit/Automated-Cloud-Security-Monitoring-Remediation-AWS-/tree/main">
-        <img src="https://github.com/Luekrit/images-/blob/main/Automated%20Cloud%20Security%20Monitoring%20%26%20Remediation%20(AWS).png" width="320"/>
+        <img src="https://github.com/Luekrit/images-/blob/main/Automated%20Cloud%20Security%20Monitoring%20%26%20Remediation%20(AWS).png" width="350" height="210"/>
         <br><b>Automated Cloud Security Monitoring & Remediation</b>
       </a>
       <br>S3 security controls, Python, Boto3, AWS automation
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://github.com/Luekrit/AWS-IAM-lifecycle-automation">
-        <b>AWS IAM Lifecycle Automation</b>
+        <img src="https://github.com/Luekrit/AWS-IAM-lifecycle-automation/blob/main/assets/social-preview.png" width="350" height="210"/>
+        <br><b>AWS IAM Lifecycle Automation</b>
       </a>
-      <br>Joiner-Mover-Leaver automation in Python/Boto3 with a role catalog, permissions boundary and dry-run by default. Quarantine-then-purge offboarding, SCP guardrails and IAM Access Analyzer. Tested with pytest against mocked AWS (moto) in CI.
+      <br><i>In progress</i><br>Joiner-Mover-Leaver automation in Python/Boto3 with least privilege, dry-run by default and safe offboarding. Tested with pytest and moto in CI.
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://github.com/Luekrit/Terraform-Secured-S3-EC2-IAM">
-        <img src="https://github.com/Luekrit/images-/blob/main/Terraform%20%2B%20AWS%20S3%20%2B%20EC2%20%2B%20IAM.png" width="320"/>
+        <img src="https://github.com/Luekrit/images-/blob/main/Terraform%20%2B%20AWS%20S3%20%2B%20EC2%20%2B%20IAM.png" width="350" height="210"/>
         <br><b>Terraform Secured S3, EC2 & IAM</b>
       </a>
       <br>Infrastructure-as-Code with lifecycle management, least-privilege IAM roles, and encryption automation.
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://github.com/Luekrit/web-project-nextwork-">
-        <img src="https://github.com/Luekrit/images-/blob/main/Java%20Web%20App%20Deployment%20with%20AWS%20CICD.png" width="320"/>
+        <img src="https://github.com/Luekrit/images-/blob/main/Java%20Web%20App%20Deployment%20with%20AWS%20CICD.png" width="350" height="210"/>
         <br><b>Java Web App Deployment with AWS CI/CD</b>
       </a>
       <br>EC2, S3, CodePipeline, CodeDeploy, CodeArtifact
